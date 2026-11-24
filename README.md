@@ -26,6 +26,7 @@ Removes the title bar from VLC and the window border on Windows, so that with **
 ## Known bugs.. will fix
 - Videos that loop will default back to full size upon restarting.
 - New videos in playlist at different aspect ratios or resolutions will also default back to full size.
+**Both of these are self-fixable by going to Tools -> preferences -> resize interface to video size, then restarting VLC; I may look at circumventing it purely for borderless in future.**
 
 ## How it works
 
