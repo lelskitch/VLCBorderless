@@ -21,7 +21,11 @@ Removes the title bar from VLC and the window border on Windows, so that with **
 1. Download the vlc-borderless zip from the [Releases] page and extract it anywhere you like. 
 2. Double click **`install.cmd`**.
 3. Restart VLC if it was already open. 
-4. Voila, tool working. 
+4. Voila, tool working.
+
+## Known bugs.. will fix
+- Videos that loop will default back to full size upon restarting.
+- New videos in playlist at different aspect ratios or resolutions will also default back to full size.
 
 ## How it works
 
