@@ -28,7 +28,7 @@ function descriptor()
     version      = "26.11.24",
     author       = "skitch",
     shortdesc    = "Borderless Window",
-    description  = "Removes VLC's title bar and window border  with Minimal Interface and Always on Top "
+    description  = "Removes VLC's title bar and window border  with Minimal Interface and Always on Top. "
                 .. "Drag the video to move the window; resize from its edges - the window keeps the video's aspect ratio.",
     capabilities = {}
   }
