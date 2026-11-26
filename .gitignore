@@ -1,0 +1,4 @@
+# release zips are attached to a GitHub release, not committed
+release/
+
+# dist/ is NOT ignored on purpose: the prebuilt VlcBorderless.exe is committed there
