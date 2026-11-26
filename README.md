@@ -18,7 +18,7 @@ Removes the title bar from VLC and the window border on Windows, so that with **
 
 ## Quick Start
 
-1. Download the vlc-borderless zip from the [Releases] page and extract it anywhere you like. 
+1. Download the vlc-borderless zip from the [Releases](https://github.com/lelskitch/VLCBorderless/releases) page and extract it anywhere you like. 
 2. Double click **`install.cmd`**.
 3. Restart VLC if it was already open. 
 4. Voila, tool working.
