@@ -13,7 +13,7 @@ The install is **per user** no admin rights and changes no registry keys.
 
 ## Option 1 - the release zip (no build needed)
 
-1. Download `vlc-borderless-(ver-no.).zip` from the [Releases](../../releases) page.
+1. Download `vlc-borderless-(ver-no.).zip` from the [Releases](https://github.com/lelskitch/VLCBorderless/releases) page.
 2. Extract it anywhere.
 3. Double-click **`install.cmd`**.
    The script stops a running helper if there is one, copies two files, and prints where it put them. 
@@ -22,8 +22,8 @@ The install is **per user** no admin rights and changes no registry keys.
 ## Option 2 - from source (git clone)
 
 ```powershell
-git clone https://github.com/lelskitch/vlc-borderless.git
-cd vlc-borderless
+git clone https://github.com/lelskitch/VLCBorderless.git
+cd VLCBorderless
 .\install.ps1           # builds dist\VlcBorderless.exe first (build.ps1) when it is missing, then installs
 ```
 
